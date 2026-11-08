@@ -22,6 +22,5 @@
 *   ريماس، شذى، لمار، ليلى، اليان، ريتاج.
 
 ## 📊 مخطط قاعدة البيانات (ERD)
-![مخطط قاعدة البيانات](EDR_Final.png)
 
 *   كود التطبيق (Flutter): [تحميل من Google Drive](https://drive.google.com/file/d/13ePQrADghDh9Hqq3HqLn96cKlIIQVKgY/view?usp=sharing)
